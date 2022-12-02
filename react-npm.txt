@@ -1,0 +1,9 @@
+react npm 설치목록
+
+react: immer
+
+sass: node-sass, classnames
+
+react-icons : react-icons
+
+styled-components: styled-components, polished(유틸함수 사용)
